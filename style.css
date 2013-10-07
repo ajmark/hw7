@@ -68,3 +68,21 @@ span a {
   color: #888;
   text-decoration: none;
 }
+
+br {
+  line-height: 2em;
+}
+
+#drawspace {
+  border: 1px solid;
+}
+
+#clear {
+  font-size:2em;
+}
+
+#response {
+  background-color: green;
+  width: 600px;
+  height:200px;
+}
